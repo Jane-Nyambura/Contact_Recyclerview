@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">contact_recyclerview</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="Name">name is Requied</string>
 </resources>

@@ -8,7 +8,7 @@
     android:layout_marginTop="8dp"
     android:layout_marginRight="8dp"
     android:layout_marginBottom="8dp"
-    tools:context=".ContactDetailsActivities">
+    tools:context=".UI.ContactDetailsActivities">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="409dp"
